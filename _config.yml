@@ -22,7 +22,7 @@ repository               : "yuanpenguin/yuanpenguin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "portrait.jpg"
   name             : "Yuanpeng Zhang"
   pronouns         : # example: "she/her"  
   bio              : "MS ECE @ CMU"
