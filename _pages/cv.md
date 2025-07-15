@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-<embed src="/files/Resume_7.8.25.pdf" width="100%" height="100%" type="application/pdf">
+<embed src="/files/Resume_7.8.25.pdf" width="100%" height="100vh" type="application/pdf">
