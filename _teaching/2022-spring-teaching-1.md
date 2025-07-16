@@ -4,7 +4,6 @@ collection: teaching
 type: "EECE 260"
 permalink: 
 venue: "Binghamton University, Department of Electrical and Computer Engineering"
-date:
 location: "Binghamton, NY"
 ---
 
