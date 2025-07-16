@@ -7,14 +7,4 @@ venue: "Binghamton University, Department of Electrical and Computer Engineering
 date: 2022-01-30
 location: "Binghamton, NY"
 ---
-This is a description of a teaching experience. You can use markdown like any other post.
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+An introductory course on electric circuits. Students learn about the introductory circuit analysis techniques used to characterize circuits including Ohm's Law, Kirchoff's laws, nodal and mesh analysis, Norton and Thevenin theorems, and AC analysis with capacitors and inductors. Students also build their own circuits through interactive lab exercises. 
