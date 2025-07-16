@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Yuanpeng Zhang"
 title_separator          : "-"
 name                     : &name "Yuanpeng Zhang"
-description              : &description "yuanpenz@alumni.cmu.edu"
+description              : &description "MS ECE @ CMU"
 url                      : https://yuanpenguin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuanpenguin/yuanpenguin.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "portrait_1500x1500.JPG"
   name             : "Yuanpeng Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "MS ECE @ CMU"
+  bio              : "yuanpenz@alumni.cmu.edu" 
   location         : 
   employer         : "Carnegie Mellon University"
   uri              : # URL
