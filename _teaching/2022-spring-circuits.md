@@ -1,5 +1,5 @@
 ---
-title: "[Electric Circuits, Spring 2022](https://catalog.binghamton.edu/preview_course_nopop.php?catoid=5&coid=34520)"
+title: <span style="color:blue;">"[Electric Circuits, Spring 2022](https://catalog.binghamton.edu/preview_course_nopop.php?catoid=5&coid=34520)"</span>
 collection: teaching
 type: "EECE 260"
 <!--- permalink: --->
