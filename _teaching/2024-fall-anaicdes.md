@@ -8,7 +8,7 @@ date: 2024-08-30
 location: "Pittsburgh, PA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Undergraduate Teaching Assistant
 
 Heading 1
 ======
