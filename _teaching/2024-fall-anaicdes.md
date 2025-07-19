@@ -8,7 +8,7 @@ date: 2024-08-30
 location: "Pittsburgh, PA"
 ---
 
-Undergraduate Teaching Assistant
+Graduate Teaching Assistant
 
 Heading 1
 ======
