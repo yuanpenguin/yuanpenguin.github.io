@@ -10,11 +10,6 @@ location: "Pittsburgh, PA"
 
 Graduate Teaching Assistant
 
-Heading 1
+Analog Integrated Circuit Design
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+A project-based graduate course on analog integrated circuit design. Students learn about the basic mathematics of signals and linear systems, continuous and discrete time Fourier analysis, Z transforms, and Laplace transforms. The course culminates in a final project in which students use signal processing techniques to extract hidden signals from a given input signal in MATLAB. Course info can be found [here](https://courses.ece.cmu.edu/18623).
