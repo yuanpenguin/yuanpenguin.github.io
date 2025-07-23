@@ -1,6 +1,6 @@
 ---
 title: "Adaptive Swarm Controller for Small Robots"
-excerpt: "Senior Capstone Project, Binghamton University <br/><img src='/images/swarm.JPG' width='50%' height='50%'>"
+excerpt: "Senior Capstone Project, Binghamton University <br/><br><img src='/images/swarm.JPG' width='50%' height='50%'>"
 collection: portfolio
 ---
 
