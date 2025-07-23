@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1 <br/>"
+title: "Reaction Time Tester on Freedom KL25Z Microcontroller"
+excerpt: "Embedded Systems Final Project, Binghamton University <br/>"
 collection: portfolio
 ---
 
