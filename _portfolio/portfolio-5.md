@@ -8,11 +8,11 @@ This is a personal project I've been recently working on. I'm designing a 5V to 
 
 ![](/images/ldo_layout_labeled.png)
 
-|                   | This Work    | LM3940  |
-| Spec              | --------     | ------- |
+All specs at 25 degrees C
+| Spec              | This Work    | LM3940  |
 | PSRR              | January      | $250    |
 | Quiescent Current | February     | $80     |
-| Output Voltage    | March        | $420    |
+| Output Voltage    | 3.3V         | 3.3V    |
 | Dropout Voltage   | April        | $69     |
 
 [Appendix](/portfolio/portfolio-5/appendix)
