@@ -14,4 +14,4 @@ This is a personal project I've been recently working on. I'm designing a 5V to 
 
 ![](/images/bias_schematic.png)
 
-[Appendix](/appendix)
+[Appendix](/portfolio/portfolio-5/appendix)
