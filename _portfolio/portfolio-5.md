@@ -13,4 +13,5 @@ This is a personal project I've been recently working on. I'm designing a 5V to 
 ![](/images/bandgap_schematic.png)
 
 ![](/images/bias_schematic.png)
-[Appendix](yuanpenguin.github.io/portfolio/portfolio-5/appendix)
+
+[Appendix](/appendix)
