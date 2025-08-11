@@ -8,10 +8,4 @@ This is a personal project I've been recently working on. I'm designing a 5V to 
 
 ![](/images/ldo_layout_labeled.png)
 
-![](/images/ota_schematic.png)
-
-![](/images/bandgap_schematic.png)
-
-![](/images/bias_schematic.png)
-
 [Appendix](/portfolio/portfolio-5/appendix)
