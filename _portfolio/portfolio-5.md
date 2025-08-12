@@ -9,6 +9,7 @@ This is a personal project I've been recently working on. I'm designing a 5V to 
 ![](/images/ldo_layout_labeled.png)
 
 All specs at 25 degrees C
+
 | Spec              | This Work    | LM3940  |
 | PSRR              | January      | $250    |
 | Quiescent Current | February     | $80     |
