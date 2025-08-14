@@ -13,3 +13,21 @@ Bandgap Reference Schematic:
 
 Bias Schematic:
 ![](/images/bias_schematic.png)
+
+Dropout Voltage:
+![](/images/dropv_il.png)
+
+Quiescent Current:
+![](/images/gndi_temp_10m.png)
+
+PSRR:
+![](/images/psrr_10m.png)
+
+Output Impedance:
+![](/images/rout_50m.png)
+
+Output Voltage Transient:
+![](/images/vout_t_10m.png)
+
+Output Voltage by Temperature:
+![](/images/vout_temp_10m.png)
