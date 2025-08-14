@@ -8,6 +8,8 @@ This is a personal project I've been recently working on. I'm designing a 5V to 
 
 ![](/images/ldo_layout_labeled.png)
 
+![](/images/ldo_schematic.png)
+
 All specs are at 25 degrees C with both circuits operating in the same conditions
 
 | Spec                | This Work                             | LM3940                                |
