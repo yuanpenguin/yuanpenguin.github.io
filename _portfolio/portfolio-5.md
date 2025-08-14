@@ -12,10 +12,10 @@ All specs are at 25 degrees C with both circuits operating in the same condition
 
 | Spec                | This Work                             | LM3940                                |
 | PSRR                | 10kHz: 28dB, 100kHz: 42dB, 1MHz: 68dB | 10kHz: 35dB, 100kHz: 30dB, 1MHz: 29dB |
-| Quiescent Current   | 1.25mA                                | 10 mA                                 |
+| Quiescent Current   | 1.25mA                                | 10mA                                  |
 | Output Voltage      | 3.3V                                  | 3.3V                                  |
-| Dropout Voltage     |                                       |                                       |
-| Output Resistance   |                                       |                                       |  
-| Peak Output Current |                                       |                                       |
+| Dropout Voltage     | 13.6mV                                | 100mV                                 |
+| Output Resistance   | 35 Ohms                               | 0.05 Ohms                             |  
+| Peak Output Current | 100mA                                 | 1.5A                                  |
 
 [Appendix](/portfolio/portfolio-5/appendix)
