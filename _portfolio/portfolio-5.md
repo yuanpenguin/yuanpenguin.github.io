@@ -18,4 +18,8 @@ All specs are at 25 degrees C with both circuits operating in the same condition
 | Output Resistance   | 35 Ohms                               | 0.05 Ohms                             |  
 | Peak Output Current | 100mA                                 | 1.5A                                  |
 
-[Appendix](/portfolio/portfolio-5/appendix)
+In conclusion, my project has better PSRR at high frequencies, lower quiescent current, and lower dropout voltage in exchange for worse PSRR at low frequencies, higher output resistance, and lower peak output current. This is most likely due to my project utilizing a PMOS as the pass device while the LM3940 utilizes a PNP BJT. A wide PMOS device allows for a lower quiescent current and lower dropout voltage while not being able to handle the higher currents that PNP BJTs can. 
+
+For more detailed schematics of the circuits as well as graphs for the specs, check out the [appendix.](/portfolio/portfolio-5/appendix)
+
+Sources:
