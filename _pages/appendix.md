@@ -31,3 +31,5 @@ Output Voltage Transient:
 
 Output Voltage by Temperature:
 ![](/images/vout_temp_10m.png)
+
+[Back to previous page](/portfolio/portfolio-5)
