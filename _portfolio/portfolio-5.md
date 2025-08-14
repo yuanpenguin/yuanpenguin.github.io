@@ -25,3 +25,5 @@ In conclusion, my project has better PSRR at high frequencies, lower quiescent c
 For more detailed schematics of the circuits and graphs for the specs, check out the [appendix.](/portfolio/portfolio-5/appendix)
 
 Sources:
+
+King, Brian. Advantages of Using PMOS-Type Low-Dropout Linear Regulators in Battery Applications, Texas Instruments, 4 Aug. 2000, www.ti.com/sc/docs/apps/msp/journal/aug2000/aug_04.pdf. 
