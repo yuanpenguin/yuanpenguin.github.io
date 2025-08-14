@@ -8,14 +8,14 @@ This is a personal project I've been recently working on. I'm designing a 5V to 
 
 ![](/images/ldo_layout_labeled.png)
 
-All specs are at 25 degrees C
+All specs are at 25 degrees C with both circuits operating in the same conditions
 
-| Spec                           | This Work    | LM3940  |
-| PSRR (Il = 10 mA)              | January      | $250    |
-| Quiescent Current (Il = 10 mA) | February     | $80     |
-| Output Voltage                 | 3.3V         | 3.3V    |
-| Dropout Voltage                | April        | $69     |
-| Output Resistance              |              |         |
-| Peak Output Current            |              |         |
+| Spec                | This Work                             | LM3940                                |
+| PSRR                | 10kHz: 28dB, 100kHz: 42dB, 1MHz: 68dB | 10kHz: 35dB, 100kHz: 30dB, 1MHz: 29dB |
+| Quiescent Current   | 1.25mA                                | 10 mA                                 |
+| Output Voltage      | 3.3V                                  | 3.3V                                  |
+| Dropout Voltage     |                                       |                                       |
+| Output Resistance   |                                       |                                       |  
+| Peak Output Current |                                       |                                       |
 
 [Appendix](/portfolio/portfolio-5/appendix)
