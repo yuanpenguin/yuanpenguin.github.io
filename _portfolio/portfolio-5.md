@@ -26,4 +26,4 @@ For more detailed schematics of the circuits and graphs for the specs, check out
 
 Sources:
 
-King, Brian. [Advantages of Using PMOS-Type Low-Dropout Linear Regulators in Battery Applications](www.ti.com/sc/docs/apps/msp/journal/aug2000/aug_04.pdf), Texas Instruments, 4 Aug. 2000. 
+King, Brian. [Advantages of Using PMOS-Type Low-Dropout Linear Regulators in Battery Applications](https://www.ti.com/sc/docs/apps/msp/journal/aug2000/aug_04.pdf), Texas Instruments, 4 Aug. 2000. 
