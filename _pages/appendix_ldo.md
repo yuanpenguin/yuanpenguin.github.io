@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Appendix"
-permalink: /portfolio/portfolio-5/appendix/
+permalink: /portfolio/portfolio-5/appendix_ldo/
 author_profile: true
 ---
 
