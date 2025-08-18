@@ -4,12 +4,12 @@ excerpt: "Embedded Systems Final Project, Binghamton University <br/>"
 collection: portfolio
 ---
 
-[Video](https://drive.google.com/file/d/1DCtTvDm0yBqB86NzjvVmJpOrbF0wReek/view?usp=sharing)
+[Video](https://drive.google.com/file/d/1DCtTvDm0yBqB86NzjvVmJpOrbF0wReek)
 <!DOCTYPE html>
 <html>
 <body>
   
-<iframe src="https://drive.google.com/file/d/1DCtTvDm0yBqB86NzjvVmJpOrbF0wReek/view?usp=sharing/preview" ></iframe>
+<iframe src="https://drive.google.com/file/d/1DCtTvDm0yBqB86NzjvVmJpOrbF0wReek/preview" ></iframe>
   
 <!--aloow full screen add tag -->
   
