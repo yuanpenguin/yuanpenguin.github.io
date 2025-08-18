@@ -17,3 +17,5 @@ At CMU, I worked as a research assistant in Prof. Rick Carley's lab doing design
 ![](/images/floci_images/buffer_fft.png)
 
 ![](/images/floci_images/inductor.png)
+
+![](/images/floci_images/inductor_specs.png)
