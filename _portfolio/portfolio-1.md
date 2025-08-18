@@ -3,9 +3,6 @@ title: "Reaction Time Tester on Freedom KL25Z Microcontroller"
 excerpt: "Embedded Systems Final Project, Binghamton University <br/>"
 collection: portfolio
 ---
-
-[Video](https://drive.google.com/file/d/1DCtTvDm0yBqB86NzjvVmJpOrbF0wReek)
-<!DOCTYPE html>
 <html>
 <body>
   
