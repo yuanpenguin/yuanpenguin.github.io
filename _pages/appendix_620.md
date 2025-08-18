@@ -28,3 +28,5 @@ Top Schematic:
 
 Group Bias Schematic:
 ![](/images/620_images/groupbias_schematic.png)
+
+[Back to previous page](/portfolio/portfolio-4)
