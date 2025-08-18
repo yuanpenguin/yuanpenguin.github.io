@@ -4,7 +4,7 @@ excerpt: "Embedded Systems Final Project, Binghamton University <br/>"
 collection: portfolio
 ---
 
-![](https://drive.google.com/file/d/1DCtTvDm0yBqB86NzjvVmJpOrbF0wReek/view?usp=sharing)
+[Video](https://drive.google.com/file/d/1DCtTvDm0yBqB86NzjvVmJpOrbF0wReek/view?usp=sharing)
 
 <iframe src="https://drive.google.com/file/d/1DCtTvDm0yBqB86NzjvVmJpOrbF0wReek/view?usp=sharing/preview" ></iframe>
   
