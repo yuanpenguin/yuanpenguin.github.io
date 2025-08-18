@@ -6,6 +6,8 @@ collection: portfolio
 
 For my 18620 final project, I taped out a 3 by 5 pixel image sensor consisting of a cascode current steering DAC and pulse counting ADC in the TSMC 65nm process. This project has applications for IoT systems, converting signals between the physical and digital worlds. Chip layouts and results are shown below.
 
+![](/images/620_images/chip_diagram.png)
+
 ![](/images/620_images/top_layout.png)
 
 ![](/images/620_images/bias_layout.png)
