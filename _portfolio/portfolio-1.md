@@ -7,7 +7,7 @@ collection: portfolio
 <html>
 <body>
 
-<iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/1DCtTvDm0yBqB86NzjvVmJpOrbF0wReek/preview" ></iframe>
+<iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/1DCtTvDm0yBqB86NzjvVmJpOrbF0wReek/preview" width="640" height="480"></iframe>
 
 </body>
 </html> 
